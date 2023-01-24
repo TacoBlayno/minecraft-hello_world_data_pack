@@ -1,0 +1,29 @@
+{ 
+
+    "format_version": "1.19.40", 
+
+    "minecraft:block": { 
+
+        "description": { 
+
+            "identifier": "tacoblayno:hello_world_geo" 
+
+        }, 
+
+        "components": { 
+
+            "minecraft:geometry": "geometry.hello_world", 
+
+            "minecraft:material_instances": { 
+
+                "*": { 
+                    "texture": "hello_world_geo"
+                } 
+
+            } 
+
+        } 
+
+    } 
+
+}

@@ -1,0 +1,46 @@
+{
+  "format_version": 2, 
+
+  "header": { 
+
+    "description": "This behavior pack adds a block that say \"HELLO WORLD\" to the game.", 
+
+    "name": "Hello World Behavior Pack", 
+
+    "uuid": "ceab65cf-c743-4a8e-b2fa-d171250969a9", 
+
+    "version": [ 1, 0, 0 ], 
+
+    "min_engine_version": [ 1, 19, 20 ] 
+
+  }, 
+
+  "modules": [ 
+
+    { 
+
+      "description": "Hello World Behavior Pack", 
+
+      "type": "data", 
+
+      "uuid": "51b9113e-c4b0-4b1c-8193-77dbbba42be7", 
+
+      "version": [ 1, 0, 0 ] 
+
+    } 
+
+  ], 
+
+  "dependencies": [ 
+
+    { 
+
+      "uuid": "2452ad49-e666-434b-892c-ac22c23b8804", 
+
+      "version": [ 1, 0, 0 ] 
+
+    } 
+
+  ] 
+
+} 

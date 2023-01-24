@@ -1,0 +1,19 @@
+{ 
+
+    "format_version": "1.19.30", 
+
+    "minecraft:block": { 
+
+        "description": { 
+
+            "identifier": "TacoBlayno:hello_world" 
+
+        }, 
+
+        "components": { 
+
+        } 
+
+    } 
+
+}

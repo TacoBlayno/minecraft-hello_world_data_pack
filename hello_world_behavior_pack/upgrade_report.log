@@ -1,0 +1,26 @@
+{
+   "errors" : [
+      {
+         "key" : 6,
+         "parameters" : [ "/header/pack_id" ],
+         "type" : 2
+      }
+   ],
+   "location" : {
+      "fs" : 2,
+      "path" : "C:/Users/tacob_t1n67fi/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_behavior_packs/custom_block_behavior_pack"
+   },
+   "upgraded" : false,
+   "warnings" : [
+      {
+         "key" : 10,
+         "parameters" : [ "/header", "f6e337b9-7ff2-41f3-86eb-dfdb6c1f6387" ],
+         "type" : 2
+      },
+      {
+         "key" : 7,
+         "parameters" : [ "/header/packs_version", "0.0.0" ],
+         "type" : 2
+      }
+   ]
+}

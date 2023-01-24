@@ -1,0 +1,25 @@
+{
+    "format_version": "1.17.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "tacoblayno:hello_world"
+            },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "C# ",
+            "   "
+            ],
+        "key": {
+            "C": {
+                "item": "minecraft:concrete_white"
+            },
+            "#": {
+                "item": "minecraft:dye_power_black"
+            }
+        },
+        "result": {
+            "item": "tacoblayno:hello_world",
+            "data": 4
+            }
+        }
+    }
