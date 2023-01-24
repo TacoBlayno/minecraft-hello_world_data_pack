@@ -1,0 +1,17 @@
+{
+    "block_sounds": {
+        "hello_world_sound": {
+            "events": {
+                "default": "",
+                "break": {
+                    "sound": "block.hello_world.break"
+                },
+                "place": {
+                    "sound": "block.hello_world.place"
+                }
+            },
+            "volume": 1.0,
+            "pitch": 1.0
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{ 
+
+    "format_version": "1.19.30", 
+
+    "hello_world": { 
+
+        "textures": { 
+
+            "up": "hello_world_1", 
+
+            "down": "hello_world_2", 
+
+            "north": "hello_world_3", 
+
+            "south": "hello_world_4", 
+
+            "east": "hello_world_5", 
+
+            "west": "hello_world_6" 
+
+        }, 
+
+        "carried_textures": "bye_world", 
+
+        "isotropic": true, 
+
+        "brightness_gamma": 1, 
+
+        "sound": "hello_world_sound" 
+
+    },
+
+    "hello_world_geo": {
+        "sound": "hello_world_sound",
+        "brightness_gamma": 15
+    }
+}

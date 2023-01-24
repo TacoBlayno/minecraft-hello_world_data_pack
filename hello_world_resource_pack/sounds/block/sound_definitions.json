@@ -1,0 +1,27 @@
+{
+    "format_version" : "1.14.0",
+    "sound_definitions" : {
+        "block.hello_world.break" : {
+            "__use_legacy_max_distance" : "true",
+            "category" : "block",
+            "sounds" : [
+               {
+                  "name" : "sounds/block/hello_world/bye_world",
+                  "volume" : 1.0
+               }
+            ]
+         },
+
+         
+         "block.hello_world.place" : {
+            "__use_legacy_max_distance" : "true",
+            "category" : "block",
+            "sounds" : [
+               {
+                  "name" : "sounds/block/hello_world/hello_world",
+                  "volume" : 1.0
+               }
+            ]
+         }
+    }
+} 
