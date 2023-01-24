@@ -10,4 +10,7 @@ First, open files. Next, go to the view section. In the view section there shoul
 (one should not search with the small quick access search bar, rather one should search with the large bar).
 
 ### Adding the files
-After finishing the preperation (if not already done, else skip to the next sentance), download and unzip this repository. Open development_behavior_packs.
+After finishing the preperation (if not already done, else skip to the next sentance), download and unzip this repository. Open development_behavior_packs. In a different file window, open the download. Move the hello_world_behavior_pack folder into the development_behavior_packs folder. Back out of the development_behavior_packs folder in the com.mojang file, and open the development_resource_packs folder. Drag the downloaded hello_world_resource_pack folder into the development_resource_packs folder.
+
+### Adding them to a Minecraft world.
+After finishing preperation and adding the files, opne Minecraft. Create a new world (old worlds do not accept new packs). Activate the
